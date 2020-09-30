@@ -32,7 +32,7 @@ document](https://curl.haxx.se/legal/licmix.html).
 
 ## Contact
 
-If you have problems, questions, ideas or suggestions, please contact us by
+If you have any problems, questions, ideas and suggestions, please contact us by
 posting to a suitable [mailing list](https://curl.haxx.se/mail/).
 
 All contributors to the project are listed in [the THANKS
